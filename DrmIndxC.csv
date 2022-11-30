@@ -1,0 +1,917 @@
+"",".Dorms&GreeksMainList","School.Lookup.Table",".Town",".School.Lat",".School.Long",".Early.Voting.Name",".Early.Voting.Address",".EV.Lat",".EV.Long",".Miles.to.EV",".Walk.to.EV",".Dorm.Type.Spcfc",".is.greek",".Dorm.Name",".Dorm.Address",".Dorm.Lat",".Dorm.Long",".Mlbx.Name",".Mlbx.Address",".Ward",".PP.Name",".Polling.Place",".PP.Lat",".PP.Long"
+"1","Alverno","Alverno","Milwaukee","45.5586° N","84.3917° W","American Serb Hall","5101 W Oklahoma Ave
+Milwaukee City, WI",NA,NA,0.9,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Alverno - Austin","Alverno","Milwaukee","45.5586° N","84.3917° W","American Serb Hall","5101 W Oklahoma Ave
+Milwaukee City, WI",NA,NA,0.9,18,"Campus",NA,"Austin Hall","3390 S. 43rd Street 
+Milwaukee, WI 53219",42.9840401,-87.9655873999999,NA,NA,270,"Audubon School","3300 S 39Th St.
+Milwaukee, WI 53215",42.984251,-87.9621186
+"3","Beloit - Phi Kappa Psi (WI Gamma)","Beloit College","Beloit","42.5030° N","89.0309° W","Beloit City Hall.","100 State St. 
+Beloit, WI",NA,NA,1,20,"Frat",TRUE,"Phi Kappa Psi (Gamma Chapter)","810 College St.
+Beloit, WI 53511",42.505144,-89.029907,NA,NA,12,"First Congregational Church","801 Bushnell St.
+Beloit, WI 53511",42.5018657,-89.0278649
+"4","Beloit - Sigma Chi (Alpha Zeta)","Beloit College","Beloit","42.5030° N","89.0309° W","Beloit City Hall.","100 State St. 
+Beloit, WI",NA,NA,1,20,"Frat",TRUE,"Sigma Chi (Alpha Zeta)","834 College St.
+Beloit, WI 53511",42.5055634,-89.0299553999999,NA,NA,12,"First Congregational Church","801 Bushnell St.
+Beloit, WI 53511",42.5018657,-89.0278649
+"5","Beloit - Tau Kappa Epsilon (Kappa Chapter)","Beloit College","Beloit","42.5030° N","89.0309° W","Beloit City Hall.","100 State St. 
+Beloit, WI",NA,NA,1,20,"Frat",TRUE,"Tau Kappa Epsilon (Kappa Chapter)","846 College St.
+Beloit, WI 53511",42.5061387,-89.0299928,NA,NA,12,"First Congregational Church","801 Bushnell St.
+Beloit, WI 53511",42.5018657,-89.0278649
+"6","Beloit College","Beloit College","Beloit","42.5030° N","89.0309° W","Beloit City Hall.","100 State St. 
+Beloit, WI",NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,"First Congregational Church","801 Bushnell St. Beloit 53511",42.5018657,-89.0278649
+"7","Cardinal Stritch - Assisi Hall","Cardinal Stritch - Assisi Hall","Glendale","43.1400° N","87.9090° W","Glendale City Hall","5909 N Milwaukee River Rd.
+Glendale, WI 53209",NA,NA,2,NA,"Campus",NA,"Assisi Hall","6750 N Yates Rd
+Fox Point, WI 53217",43.1396263,-87.9058008,NA,NA,NA,NA,NA,NA,NA
+"8","Cardinal Stritch - Clare Hall","Cardinal Stritch - Clare Hall","Fox Point","43.1400° N","87.9090° W","Fox Point Village Hall","7200 N Santa Monica Blvd 
+Fox Point, WI 53217",NA,NA,0.9,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"`=",NA,NA
+"9","Carroll","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Carroll - Carroll Street Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Carrol Street Apartments","225 Carroll St.
+Waukesha, WI 53186",43.0072962,-88.2302194999999,NA,NA,34,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"11","Carroll - Charles Street Hall","Carroll","Waukesha","43.0045° N","88.228° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Charles Street Hall","201 N. Charles St 
+Waukesha, WI 53186",43.0042044,-88.2241703999999,NA,NA,24,"St. Mary's Church, Voting Room: Community Room, Lower Level","225 S Hartwell Ave
+Waukesha, WI 53186",42.9997087,-88.2206317999999
+"12","Carroll - College Avenue Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"College Avenue Apartments","245 W. College Ave
+Waukesha, WI 53186",43.0026483,-88.231551,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"13","Carroll - Frontier Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Frontier Hall","210 N. Grand Ave
+Waukesha, WI 53186",43.0041782,-88.2323117999999,NA,NA,34,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"14","Carroll - Hartwell A Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Hartwell A Apartments","334 N. Hartwell Ave
+Waukesha, WI 53186",43.0067463,-88.2220775,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"15","Carroll - Hartwell B Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Hartwell B Apartments","332 N. Hartwell Ave
+Waukesha, WI 53186",43.0067653,-88.2228768,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"16","Carroll - Hartwell C Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Hartwell C Apartments","331 Barney St. 
+Waukesha, WI 53186",43.0066253,-88.2236377,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"17","Carroll - Hartwell D Apartments","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Hartwell D Apartments","325 Barney St.
+Waukesha, WI 53186",43.0067165,-88.2246409999999,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"18","Carroll - Kilgour Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Kilgour Hall","119 E. College Ave.
+Waukesha, WI 53186",43.0026735,-88.2258064,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"19","Carroll - North Bergstrom Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"North Bergstrom Hall","135 S. East Ave
+Waukesha, WI 53186",43.0016545,-88.2263603999999,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"20","Carroll - Pioneer Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Pioneer Hall","324 W. College Ave
+Waukesha, WI 53186",43.0033934,-88.2331107,NA,NA,34,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"21","Carroll - Prairie Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Prairie Hall","304 W. College Ave
+Waukesha, WI 53186",43.0032462,-88.2322313999999,NA,NA,34,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"22","Carroll - Shirley Hilger Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"Shirley Hilger Hall","200 E. College Ave
+Waukesha, WI 53186",43.0032149,-88.2252378,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"23","Carroll - South Bergstrom Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,"Campus",NA,"South Bergstrom Hall","151 S. East Ave
+Waukesha, WI 53186",43.0012047,-88.2264268,NA,NA,33,"E & R Ucc Church","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"24","Carroll - Steele Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,NA,NA,"Steele Hall","221 N. East Ave. Waukesha, WI 53186",43.0047665,-88.2262855,NA,NA,NA,"E&R UCC Church, 413 Wisconsin Ave.,Waukesha, WI 53186","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"25","Carroll - Swarthout Hall","Carroll","Waukesha","43.0043° N","88.2285° W","Waukesha City Hall","201 Delafield St.
+Waukesha, WI 53188",NA,NA,1,20,NA,NA,"Swarthout Hall","221 N. East Ave.  Waukesha, WI 53186",43.0047665,-88.2262855,NA,NA,NA,"E&R UCC Church, 413 Wisconsin Ave.,Waukesha, WI 53186","413 Wisconsin Ave
+Waukesha, WI 53186",43.0093789,-88.2349832
+"26","Carthage College","Carthage College","Kenosha","42.6234° N","87.8220° W","Municipal Building","625-52nd Street, Room 104 
+Kenosha, WI 53140",NA,NA,2.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Kenosha Civil War Museum 5400 1st Ave, Kenosha, WI 53140","5400 1st Ave
+Kenosha, WI 53140",42.58712,-87.813
+"27","Chippewa Valley TC - Chippewa Falls Campus","Chippewa Valley TC - Chippewa Falls Campus","Chippewa Falls","45.046° N","91.1750° W","City Hall","30 West Central
+Chippewa Falls, WI",NA,NA,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","College of Menominee Nation - Keshena Campus","College of Menominee Nation - Keshena Campus","Keshena","44.7959° N","88.9250° W","County Clerks office","w3269 Courthouse lane
+Keshena, WI 54135",NA,NA,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Concordia","Concordia","Mequon","43.2543° N","87.9155° W","Mequon City Hall","11333 N Cedarburg Rd.
+Mequon, WI 53092",NA,NA,4.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Edgewood","Edgewood","Madison","43.0607° N","89.4233° W","Edgewood College - Wingra Commons","1000 Edgewood College Dr.
+Madison, WI",NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Edgewood - Dominican","Edgewood","Madison","43.0607° N","89.4233° W","Edgewood College - Wingra Commons","1000 Edgewood College Dr.
+Madison, WI",NA,NA,0,0,NA,NA,"Dominican Hall","1014 Edgewood College Dr, Madison, WI 53711",43.0595308,-89.4199044,NA,NA,70,"Edgewood College Rennebohm Library","959 Edgewood College Dr",43.0569625,-89.4228761
+"32","Edgewood - Siena","Edgewood","Madison","43.0607° N","89.4233° W","Edgewood College - Wingra Commons","1000 Edgewood College Dr.
+Madison, WI",NA,NA,0,0,NA,NA,"Siena Hall","2302 Edgewood Dr, Madison, WI 53711",43.0589599,-89.4194977,NA,NA,NA,NA,NA,NA,NA
+"33","Lakeland U","Lakeland","Plymouth","43.8419° N","87.8848° W","Herman Town Hall","N8139 Franklin Rd.
+Plymouth, WI 53073",NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Lawrence","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Lawrence - Big Exec","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Big Exec","300 South Meade St.
+Appleton, WI 54911",44.2597913,-88.3947451,NA,NA,12,"Memorial Presbyterian Church, Voting Room: Fellowship Hall - Lower Level","803 E College Ave
+Appleton, WI 54911",44.2614536,-88.3945555999999
+"36","Lawrence - Brokaw Hall","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Brokaw Hall","115 South Drew St.
+Appleton, WI 54911",44.2611071,-88.4015283,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"37","Lawrence - Hiett","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Hiett Hall","403 East College Ave
+Appleton, WI 54911",44.2601788,-88.4007779,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"38","Lawrence - Ormsby","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Ormsby Hall","401 East College Ave
+Appleton, WI 54911",44.2605399,-88.4006568,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"39","Lawrence - Plantz","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Plantz Hall","600 East College Ave 
+Appleton, WI 54911",44.2621265999999,-88.397701,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"40","Lawrence - Quad 203 N Union St","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 203 N Union","203 N. Union St.
+Appleton, WI 54911",44.263157,-88.3986295,NA,NA,12,"Memorial Presbyterian Church, Voting Room: Fellowship Hall- Lower Level","803 E College Ave
+Appleton, WI 54911",44.2614536,-88.3945555999999
+"41","Lawrence - Quad 206 S Lawe St","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 206 S Lawe","206 S. Lawe St.
+Appleton, WI 54911",44.2607079,-88.3967914999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"42","Lawrence - Quad 218 S. Lawe Street","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 218 S. Lawe","218 S. Lawe St.
+Appleton, WI 54911",44.2603379,-88.3967914999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"43","Lawrence - Quad 711 E. Alton Street","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 711 E. Alton","711 E. Alton St.
+Appleton, WI 54911",44.2607578,-88.3963936,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"44","Lawrence - Quad 712 E. Boldt Way","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 712 E. Boldt","712 E. Boldt Way
+Appleton, WI  54911",44.2603133,-88.3963557,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"45","Lawrence - Quad 726 E. Boldt Way","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 726 E. Boldt","726 E. Boldt Way
+Appleton, WI",44.2602319,-88.3958251,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"46","Lawrence - Quad 733 East Alton Street","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 733 East Alton","733 East. Alton St.
+Appleton, WI 54911",44.2607692,-88.395882,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"47","Lawrence - Quad 738 E. Boldt Way","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 738 E. Boldt","738 E. Boldt Way
+Appleton, WI 54911",44.260344,-88.3954830999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"48","Lawrence - Quad 741 E. Boldt Way","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 741 E. Boldt","741 E. Boldt Way
+Appleton, WI 54911",44.2600207,-88.3952755999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"49","Lawrence - Quad 742 E. Boldt Way","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Quad 742 E. Boldt","742 E. Boldt Way
+Appleton, WI 54911",44.2603441,-88.3952511999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"50","Lawrence - Sage","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Sage Hall","723 East Boldt Way
+Appleton, WI 54911",44.2597353,-88.3960336,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"51","Lawrence - Small Exec","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Small Exec","813 East John St.
+Appleton, WI 54911",44.2599339,-88.3943661,NA,NA,12,"Memorial Presbyterian Church, Voting Room: Fellowship Hall- Lower Level","803 E College Ave
+Appleton, WI 54911",44.2614536,-88.3945555999999
+"52","Lawrence - Trever","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Trever Hall","815 East South St.
+Appleton, WI 54911",44.2588249999999,-88.3944418999999,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"53","Lawrence -Colman","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Colman Hall","212 South Durkee St.
+Appleton, WI 54911",44.2603798,-88.4024377,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"54","Lawrence -Kohler","Lawrence","Appleton","45.4401° N","87.3869° W","Appleton City Hall","100 N Appleton St.
+Appleton, WI 54911",NA,NA,0.3,6,"Campus",NA,"Kohler Hall","718 East Alton St.
+Appleton, WI 54911",44.2615154999999,-88.3963368,NA,NA,31,"Saint Joseph Parish Center","404 W Lawrence St.
+Appleton, WI 54911",44.2610918,-88.4110761
+"55","Madison College","Madison College","Madison","43.1210° N","89.3327° W","East Madison Community Center","8 Straubel St
+Madison, WI 53704",NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Marquette","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Marquette - Abbottsford Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Abbottsford Hall","722 N 13th St. 
+Milwaukee, WI 53233",43.039312,-87.9283095999999,NA,NA,186,"Wisconsin Conservatory Of Lifelong Learning","1017 N 12Th St.
+Milwaukee, WI 53233",43.0437456,-87.9281180999999
+"58","Marquette - Carpenter Tower","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Carpenter Tower","1032 W Wisconsin Ave 
+Milwaukee, WI 53233",43.0389585,-87.9256644,NA,NA,186,"Wisconsin Conservatory Of Lifelong Learning","1017 N 12Th St.
+Milwaukee, WI 53233",43.0437456,-87.9281180999999
+"59","Marquette - Cobeen Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Cobeen Hall","1111 W Wells St. 
+Milwaukee, WI 53233",43.039442,-87.9260285,NA,NA,186,"Wisconsin Conservatory Of Lifelong Learning","1017 N 12Th St.
+Milwaukee, WI 53233",43.0437456,-87.9281180999999
+"60","Marquette - Humphrey Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Humphrey Hall","1716 W Wisconsin Ave 
+Milwaukee, WI 53233",43.0392478,-87.9346192,NA,NA,187,"Marquette University Alumni Union","1442 W Wisconsin Ave
+Milwaukee, WI 53233",43.0396268,-87.9309739999999
+"61","Marquette - Mashuda Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Mashuda Hall","1926 W Wisconsin Ave 
+Milwaukee, WI 53233",43.0389468,-87.9373782,NA,NA,335,"Marquette University Alumni Union","1442 W Wisconsin Ave
+Milwaukee, WI 53233",43.0396268,-87.9309739999999
+"62","Marquette - O'Donnell Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,NA,NA,"O'Donnell Hall","725 N 18th St.
+Milwaukee, WI 53233",43.0394514,-87.9360461999999,NA,NA,187,"Marquette University Alumni Union","1442 W Wisconsin Ave
+Milwaukee, WI 53233",43.0396268,-87.9309739999999
+"63","Marquette - Schroeder  Hall","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Schroeder Hall","725 N 13th St. 
+Milwaukee, WI 53233",43.0395548,-87.9291523,NA,NA,186,"Wisconsin Conservatory Of Lifelong Learning","1017 N 12Th St.
+Milwaukee, WI 53233",43.0437456,-87.9281180999999
+"64","Marquette - Straz Tower","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Straz Tower","915 W Wisconsin Ave 
+Milwaukee, WI 53233",43.0378265,-87.9237512999999,NA,NA,183,"Central Library - Centennial Hall, Voting Room: Centennial Hall","733 N 8Th St.
+Milwaukee, WI 53233",43.0397681,-87.9220658
+"65","Marquette - The Commons","Marquette","Milwaukee","43.0387° N","87.9310° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"The Commons","721 N 17th St.
+Milwaukee, WI 53233",43.0398031,-87.9345142999999,NA,NA,187,"Marquette University Alumni Union","1442 W Wisconsin Ave
+Milwaukee, WI 53233",43.0396268,-87.9309739999999
+"66","MATC - (Milwaukee Area Technical College)","MATC - Milwaukee Area Technical College","Milwaukee","43.0436° N","87.9211° W","Fiserv Forum","1111 Vel R. Phillips Ave
+Milwaukee, WI 53203",NA,NA,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","MATC - Westown Green","MATC - Milwaukee Area Technical College","Milwaukee","43.0436° N","87.9211° W","Fiserv Forum","1111 Vel R. Phillips Ave
+Milwaukee, WI 53203",NA,NA,0.3,6,"Campus",NA,"Westown Green","700 W St.ate St.
+Milwaukee, WI 53233",43.0433865,-87.9208398999999,NA,NA,184,"Central Library - Centennial Hall, Voting Room: Centennial Hall","733 N 8Th St.
+Milwaukee, WI 53233",43.0397681,-87.9220658
+"68","MIAD","MIAD","Milwaukee","43.0310° N","87.9079° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","MIAD - Two50Two","MIAD","Milwaukee","43.0310° N","87.9079° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,1,20,"Campus",NA,"Two50Two","252 E Menomonee St.
+Milwaukee, WI 53202",43.0317748999999,-87.907966,NA,NA,182,"Bradley Tech High School","700 S 4Th St.
+Milwaukee, WI 53204",43.0242399,-87.9146971999999
+"70","Mount Mary","Mount Mary","Milwaukee","43.0726° N","88.0312° W","Midtown Shopping Center","5740 W Capitol Dr.
+Milwaukee, WI",NA,NA,3.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Mount Mary - Caroline Hall","Mount Mary","Milwaukee","43.0726° N","88.0312° W","Midtown Shopping Center","5740 W Capitol Dr.
+Milwaukee, WI",NA,NA,3.9,NA,"Campus",NA,"Caroline Hall","2900 Menomonee River Pkwy
+Milwaukee, WI 53222",43.0706362,-88.0299653,NA,NA,79,"Cooper Park Pavilion","8701 W Chambers St. Milwaukee, WI 53222",43.0726334,-88.0215760999999
+"72","Mount Mary - Lorenz House","Mount Mary","Milwaukee","43.0726° N","88.0312° W","Midtown Shopping Center","5740 W Capitol Dr.
+Milwaukee, WI",NA,NA,3.9,NA,"Campus",NA,"Lorenz House","2900 Menomonee River Pkwy
+Milwaukee, WI 53222",43.0706362,-88.0299653,NA,NA,79,"Cooper Park Pavilion","8701 W Chambers St. Milwaukee, WI 53222",43.0726334,-88.0215760999999
+"73","MSOE","MSOE","Milwaukee","43.0453° N","87.9079° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,0.2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","MSOE - Margaret Loock Residence Hall","MSOE","Milwaukee","43.0453° N","87.9079° W","Frank P. Zeidler Municipal Building","841 N Broadway
+Milwaukee, WI 53202",NA,NA,0.2,4,NA,NA,"Margaret Loock Residence Hall","324 E Juneau Ave
+Milwaukee, WI 53202",43.046142,-87.9076211,NA,NA,180,"Convent Hill Housing","455 E Ogden Ave
+Milwaukee, WI 53202",43.0479543999999,-87.9066572999999
+"75","Northland","Northland College","Ashland","46.5808° N","90.8732° W","Ashland City Hall","601 Main St W
+Ashland, WI 54806",NA,NA,1.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bretting Community Center","400 4Th Ave W
+Ashland, WI 54806",46.588057,-90.8855882
+"76","Northland - Fenenga Hall","Northland College","Ashland","46.5808° N","90.8732° W","Ashland City Hall","601 Main St W
+Ashland, WI 54806",NA,NA,1.2,NA,"Campus",NA,"Fenenga Hall","1411 Ellis Ave S
+Ashland, WI 54806",46.5802698,-90.8736668999999,NA,NA,14,"Bretting Community Center","400 4Th Ave W
+Ashland, WI 54806",46.588057,-90.8855882
+"77","Ripon","Ripon College","Ripon","43.8441° N","88.8423° W","City of Ripon","100 E Jackson St.
+Ripon, WI 54971",NA,NA,0.4,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ripon City Hall Building","100 Jackson St.
+Ripon, WI 54971",43.8465906,-88.8388286
+"78","Ripon - Campus Apartments","Ripon College","Ripon","43.8441° N","88.8423° W","City of Ripon","100 E Jackson St.
+Ripon, WI 54971",NA,NA,0.4,8,NA,NA,"Campus Apartments","430 Woodside Ave
+Ripon, WI 54971",43.8421788,-88.8417913,NA,NA,4,"Ripon City Hall Building","100 Jackson St.
+Ripon, WI 54971",43.8465906,-88.8388286
+"79","St Norbert","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,"De Pere Community Center","600 Grant St
+De Pere, WI 54115",44.4462023,-88.0764114
+"80","St Norbert - Dale and Ruth Michels Hall","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,"Campus",NA,"Dale and Ruth Michels Hall","708 Third St.
+De Pere, WI 54115",44.4409749999999,-88.070274,NA,NA,16,"De Pere Community Center","600 Grant St.
+De Pere, WI 54115",44.4462023,-88.0764114
+"81","St Norbert - Dennis M. Burke Hall","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,"Campus",NA,"Dennis M. Burke Hall","100 Marsh St.
+De Pere, WI 54115",44.4426784,-88.0662936,NA,NA,13,"De Pere Community Center","600 Grant St.
+De Pere, WI 54115",44.4462023,-88.0764114
+"82","St Norbert - Gertrude S. Bergstrom Hall","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,"Campus",NA,"Gertrude S. Bergstrom Hall","150 Reid St.
+De Pere, WI 54115",44.4463559,-88.0658354,NA,NA,13,"De Pere Community Center","600 Grant St.
+De Pere, WI 54115",44.4462023,-88.0764114
+"83","St Norbert - Madelaine/Lorraine Hall","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,"Campus",NA,"Madelaine/Lorraine Hall","190 Reid St. 
+De Pere, WI 54115",44.4464399,-88.0664463999999,NA,NA,13,"De Pere Community Center","600 Grant St.
+De Pere, WI 54115",44.4462023,-88.0764114
+"84","St Norbert - Mary Minahan McCormick Hall","St Norbert","De Pere","44.4437° N","88.0694° W","De Pere City Clerk","335 S Broadway
+De Pere, WI 54115",NA,NA,0.4,8,"Campus",NA,"Mary Minahan McCormick Hall","110 Reid St.
+De Pere, WI 54115",44.446493,-88.0652243999999,NA,NA,13,"De Pere Community Center","600 Grant St.
+De Pere, WI 54115",44.4462023,-88.0764114
+"85","UWEauClaire","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","UWEauClaire - Alpha Xi Delta","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Frat",TRUE,"Alpha Xi Delta","1004 S Farwell St.
+Eau Claire, WI 54701",44.8058268,-91.4936,"W.R. Davies Center","105 Garfield Ave, Eau Claire, WI 54701",50,"Spirit Lutheran Church","1310 Main St.
+Eau Claire, WI 54701",44.8128375999999,-91.4831684999999
+"87","UWEauClaire - Aspenson Mogensen Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Aspenson Mogensen Hall","222 Water St.
+Eau Claire, WI 54703",44.802301,-91.5049131999999,NA,NA,52,"American Legion","634 Water St.
+Eau Claire, WI 54703",44.8024223,-91.5133360999999
+"88","UWEauClaire - Bridgman Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Bridgman Hall","610 Hilltop Cir
+Eau Claire, WI 54701",44.7981709,-91.5084201999999,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"89","UWEauClaire - Chancellors Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Chancellors Hall","820 University Dr.
+Eau Claire, WI 54701",44.7976809,-91.5106976,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"90","UWEauClaire - Governors Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Governors Hall","640 Hilltop Cir
+Eau Claire, WI 54701",44.7989264,-91.5066052,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"91","UWEauClaire - Haymarket Landing","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Haymarket Landing","220 Eau Claire St.
+Eau Claire, WI 54701",44.8127115,-91.5012740999999,NA,NA,50,"Spirit Lutheran Church","1310 Main St.
+Eau Claire, WI 54701",44.8128375999999,-91.4831684999999
+"92","UWEauClaire - Horan Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Horan Hall","651 Hilltop Cir
+Eau Claire, WI 54701",44.7984231999999,-91.5059246,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"93","UWEauClaire - Karlgaard Towers","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Karlgaard Towers","642 University Dr.
+Eau Claire, WI 54701",44.7968529,-91.5064826999999,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"94","UWEauClaire - Murray Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Murray Hall","11 Garfield Ave
+Eau Claire, WI 54701",44.7971203,-91.5048659,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"95","UWEauClaire - Oak Ridge Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Oak Ridge Hall","810 University Dr.
+Eau Claire, WI 54701",44.7980397,-91.5092147,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"96","UWEauClaire - Priory Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Priory Hall","1190 Priory Rd.
+Eau Claire, WI 54701",44.7651636,-91.5112561999999,NA,NA,3,"Washington Municipal Complex","5750 Old Town Hall Rd.
+Eau Claire, WI 54701",44.7629332,-91.4224067
+"97","UWEauClaire - Sutherland Hall","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"Sutherland Hall","620 Hilltop Cir
+Eau Claire, WI 54701",44.7985377,-91.5083444999999,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"98","UWEauClaire - The Suites","UW-Eau Claire","Eau Claire","44.7957° N","91.5038° W","Eau Claire City Clerk","203 S Farwell St.
+Eau Claire, WI 54701",NA,NA,1,20,"Campus",NA,"The Suites","660 Hilltop Cir
+Eau Claire, WI 54701",44.7980124,-91.5065674,NA,NA,20,"UW-Eau Claire Davies Center","77 Roosevelt Ave
+Eau Claire, WI 54701",44.7973483,-91.5014253
+"99","UWGreenBay","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","UWGreenBay - Arlene Walter Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Arlene Walter Hall","3344 Lenfestey Ct. 
+Green Bay, WI 54311",44.5335596,-87.9157452,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"101","UWGreenBay - Bob Schaefer Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Bob Schaefer Hall","3364 Schaefer Ct. 
+Green Bay, WI 54311",44.5336607,-87.9130145,NA,NA,3,"UW-Green Bay","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"102","UWGreenBay - Byron Walter Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Byron Walter Hall","3346 Lenfestey Ct.
+Green Bay, WI 54311",44.5335596,-87.9157452,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"103","UWGreenBay - Cletus Vanderperren Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Cletus Vanderperren Hall","3354 Leon Bond Dr. 
+Green Bay, WI 54311",44.5338419,-87.9139534999999,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"104","UWGreenBay - Donald Long Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Donald Long Hall","3342 Lenfestey Ct. 
+Green Bay, WI 54311",44.5335596,-87.9157452,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"105","UWGreenBay - James Temp Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"James Temp Hall","3366 Schaefer Ct. 
+Green Bay, WI 54311",44.5336893,-87.9128755999999,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"106","UWGreenBay - Josephine Lenfestey Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Josephine Lenfestey Hall","3348 Lenfestey Ct. 
+Green Bay, WI 54311",44.5335596,-87.9157452,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"107","UWGreenBay - R.E. Small Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"R.E. Small Hall","3352 Leon Bond Dr. 
+Green Bay, WI 54311",44.533487,-87.9147747999999,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"108","UWGreenBay - Robert Warren Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Robert Warren Hall","3356 Leon Bond Dr.
+Green Bay, WI 54311",44.5341827,-87.9139053,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"109","UWGreenBay - Roy Downham Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Roy Downham Hall","3374 Downham Ct. 
+Green Bay, WI 54311",44.5318772,-87.9125258999999,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"110","UWGreenBay - Ted Lenfestey Hall","UW-Green Bay","Green Bay","44.5314° N","87.9210° W","Green Bay Clerk's Office","100 North Jefferson Street        
+Green Bay, WI 54301",NA,NA,4.6,NA,"Campus",NA,"Ted Lenfestey Hall","3342 Lenfestey Ct. 
+Green Bay, WI 54311",44.5335596,-87.9157452,NA,NA,3,"UW-Green Bay Student Services","2420 Nicolet Dr.
+Green Bay, WI 54311",44.532204,-87.9217003
+"111","UWLaCrosse","UW-LaCrosse","LaCrosse","43.8174° N","91.2311° W","City Hall","400 La Crosse St.
+La Crosse, WI 54601",NA,NA,0.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","UWMadison","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","UWMadison - Acacia","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Acacia","201 W Lakelawn Pl
+Madison, WI 53703",43.0764763,-89.3935154999999,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"114","UWMadison - Adams","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Adams","1520 Tripp Cir
+Madison, Wi 53706",43.0778776999999,-89.4118056,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"115","UWMadison - Alpha Chi Omega","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Alpha Chi Omega","152 Langdon St.
+Madison, WI 53703",43.0771712,-89.392276,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"116","UWMadison - Alpha Delta Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Alpha Delta Phi","640 N Henry St. Apt A
+Madison, WI 53703",43.0776154,-89.3938484999999,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"117","UWMadison - Alpha Epsilon Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Alpha Epsilon Phi","220 E Lakelawn Pl
+Madison, WI 53703",43.0770855,-89.3939963999999,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"118","UWMadison - Alpha Gamma Rho","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Alpha Gamma Rho","233 W Lakelawn Pl
+Madison, WI 53703",43.0772781,-89.3945883999999,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"119","UWMadison - Alpha Lambda Rho","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Alpha Lambda Rho","416 W North St.
+Whitewater, WI 53190",42.8354696,-88.7356794999999,NA,NA,29,"East High School","2222 E Washington Ave
+Madison, WI 53704",43.0974734,-89.3550011
+"120","UWMadison - Alpha Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Alpha Phi","28 Langdon St.
+Madison, WI 53703",43.078301,-89.3908701,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"121","UWMadison - Alpha Sigma Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Alpha Sigma Phi","142 Langdon St.
+Madison, WI 53703",43.0776136,-89.392292,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"122","UWMadison - Alpha Xi Delta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Alpha Xi Delta","615 Howard Pl
+Madison, WI 53703",43.0765944,-89.3943293999999,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"123","UWMadison - Barnard","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Barnard","970 University Ave 
+Madison, Wi 53706",43.0736774,-89.4022475,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"124","UWMadison - Beta Theta Pi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Beta Theta Pi","622 Mendota Ct
+Madison, WI 53703",43.0767787,-89.3962716,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"125","UWMadison - Bradley","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Bradley","650 Elm Dr. 
+Madison, Wi 53706",43.0778904,-89.4164071,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"126","UWMadison - Chadbourne","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Chadbourne","420 N. Park St.
+Madison, Wi 53706",43.0737394,-89.4012205,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"127","UWMadison - Chi Omega","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Chi Omega","115 Langdon St.
+Madison, WI 53703",43.0774678,-89.3910181,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"128","UWMadison - Chi Psi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Chi Psi","150 Iota Ct.
+Madison, WI 53703",43.077859,-89.393312,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"129","UWMadison - Chi Sigma Tau","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Chi Sigma Tau","515 University Ave
+Madison, WI 53703",43.0728622,-89.3946670999999,NA,NA,49,"Hillel At The University Of Wisconsin","611 Langdon St.
+Madison, WI 53703",43.0755226,-89.3959757
+"130","UWMadison - Cole","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Cole","625 Elm Dr.
+Madison, Wi 53706",43.0773629,-89.4150068,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"131","UWMadison - Dejope","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Dejope","640 Elm Dr. 
+Madison, WI 53706",43.0777323,-89.4177599,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"132","UWMadison - Delta Chi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Delta Chi","200 Langdon St.
+Madison, WI 53703",43.0768455,-89.3929635,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"133","UWMadison - Delta Delta Delta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Delta Delta Delta","120 Langdon St.
+Madison, WI 53703",43.0777738,-89.3915361,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"134","UWMadison - Delta Gamma","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Delta Gamma","103 Langdon St.
+Madison, WI 53703",43.0776182,-89.3907961,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"135","UWMadison - Delta Tau Delta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Delta Tau Delta","12 Langdon St.
+Madison, 53706",43.0789628,-89.3905556,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"136","UWMadison - Delta Theta Sigma","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Delta Theta Sigma","252 Langdon St.
+Madison, WI 53703",43.0760459,-89.3945699,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"137","UWMadison - Delta Upsilon","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Delta Upsilon","644 N Frances St.
+Madison, WI 53703",43.0771125,-89.3955318,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"138","UWMadison - Elizabeth Waters","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Elizabeth Waters","1200 Observatory Dr.
+Madison, WI 53706",43.0767872,-89.4069428999999,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"139","UWMadison - Gamma Phi Beta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Gamma Phi Beta","270 Langdon St.
+Madison, WI 53703",43.0760483,-89.3950138,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"140","UWMadison - Kappa Alpha Theta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Kappa Alpha Theta","108 Langdon St.
+Madison, WI 53703",43.0783257999999,-89.3919616,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"141","UWMadison - Kappa Kappa Gamma","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Kappa Kappa Gamma","601 N Henry St.
+Madison, WI 53703",43.0770969,-89.392572,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"142","UWMadison - Kronshage","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Kronshage","1650 Kronshage Dr.
+Madison, WI 53706",43.0781293,-89.4143416,NA,NA,61,"Dejope Residence Hall","640 Elm Dr
+Madison, WI 53706",43.0777323,-89.4177599
+"143","UWMadison - Lambda Phi Epsilon","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Lambda Phi Epsilon","132 N Breese Terrace
+Madison, WI 53726",43.0708401,-89.4142472,NA,NA,1,"Cleveland Village Hall, Voting Room: Clerks Office","1150 W Washington Ave
+Cleveland, WI 53015",43.9142808,-87.7510757
+"144","UWMadison - Lambda Theta Alpha","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Lambda Theta Alpha","430 W Johnson St.
+Madison, WI 53703",43.0730039,-89.3928679999999,NA,NA,54,"Madison Senior Center","330 W Mifflin St.
+Madison, WI 53703",43.0729628,-89.3892868
+"145","UWMadison - Lambda Theta Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Lambda Theta Phi","777 University Ave, Apt. 437
+Madison, WI 53703",43.0728984,-89.3981101,NA,NA,57,"Gordon Dining, Voting Room: Dining Center","770 W Dayton St.
+Madison, WI 53715",43.0711735999999,-89.3980844
+"146","UWMadison - Leopold","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Leopold","1635 Kronshage Dr.
+Madison, WI 53706",43.0775494,-89.4139883,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"147","UWMadison - Merit","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Merit","917, 919 or 921 WeSt. Dayton St.
+Madison, WI 53715",43.0708036,-89.4017289,NA,NA,58,"Smith Hall, Voting Room:","Laines Lounge 35 N Park St.
+Madison, WI 53715",43.0689757,-89.4004166
+"148","UWMadison - Ogg","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Ogg","835 W. Dayton St.
+Madison, WI 53706",43.0704831,-89.3999426,NA,NA,58,"Smith Hall, Voting Room:
+Laines Lounge
+35 N Park St
+Madison, WI 53715","Laines Lounge 35 N Park St.
+Madison, WI 53715",43.0689757,-89.4004166
+"149","UWMadison - Phi Delta Theta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Phi Delta Theta","237 Langdon St.
+Madison, WI 53703",43.0756798,-89.3934415,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"150","UWMadison - Phi Gamma Delta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Phi Gamma Delta","16 Langdon St.
+Madison, WI 53703",43.0786785,-89.3905741,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"151","UWMadison - Phi Kappa Theta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Phi Kappa Theta","15 S Charter St.
+Madison, WI 53715",43.0672134,-89.405419,NA,NA,69,"Saint James Catholic School","1204 Saint James Ct.
+Madison, WI 53715",43.0659946,-89.4058309
+"152","UWMadison - Phillips","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Phillips","1950 Willow Dr. 
+Madison, WI 53706",43.0785106,-89.4179599,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"153","UWMadison - Pi Beta Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Pi Beta Phi","130 Langdon St.
+Madison, WI 53703",43.0780825999999,-89.392572,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"154","UWMadison - Pi Kappa Alpha","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Pi Kappa Alpha","221 Langdon St.
+Madison, WI 53703",43.0762262999999,-89.392831,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"155","UWMadison - Pi Kappa Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Pi Kappa Phi","248 Langdon St.
+Madison, WI 53703",43.0759682,-89.3941998999999,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"156","UWMadison - Pi Lamba Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Pi Lamba Phi","132 N Breese Terrace
+Madison, WI 53726",43.0708401,-89.4142471999999,NA,NA,63,"First Congregational Church","1609 University Ave
+Madison, WI 53726",43.0731484999999,-89.4144333
+"157","UWMadison - Sellery","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Sellery","821 W. Johnson St.
+Madison, WI 53706",43.0716782999999,-89.4003408999999,NA,NA,57,"Gordon Dining, Voting Room
+Dining Center","770 W Dayton St.
+Madison, WI 53715",43.0711735999999,-89.3980844
+"158","UWMadison - Sigma Alpha Epsilon","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Sigma Alpha Epsilon","627 N Lake St.
+Madison, WI 53703",43.0768056,-89.3969944999999,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"159","UWMadison - Sigma Delta Tau","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Sor",TRUE,"Sigma Delta Tau","626 N Henry St.
+Madison, WI 53703",43.0773103999999,-89.3935154999999,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"160","UWMadison - Sigma Lambda Beta","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Sigma Lambda Beta","333 E Campus Mall #4301
+Madison, WI 53715",43.0725361,-89.3987492999999,NA,NA,57,"Gordon Dining, Voting Room: Dining Center","770 W Dayton St.
+Madison, WI 53715",43.0711735999999,-89.3980844
+"161","UWMadison - Sigma Phi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Sigma Phi","106 N Prospect Ave
+Madison, WI 53726",43.0698158999999,-89.4216421,NA,NA,63,"First Congregational Church","1609 University Ave
+Madison, WI 53726",43.0731484999999,-89.4144333
+"162","UWMadison - Sigma Pi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Sigma Pi","137/139 Langdon St.
+Madison, WI 53703",43.076882,-89.3919456,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"163","UWMadison - Slichter","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Slichter","625 Babcock Dr.
+Madison, WI 53706",43.0771235,-89.4122503,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"164","UWMadison - Smith","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Smith","35 N. Park St.
+Madison, WI 53715",43.0689757,-89.4004166,NA,NA,58,"Smith Hall, Voting Room:
+Laines Lounge","35 N Park St.
+Madison, WI 53715",43.0689757,-89.4004166
+"165","UWMadison - Sullivan","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Sullivan","635 Elm Dr.
+Madison, WI 53706",43.0776593999999,-89.4156417,NA,NA,61,"Dejope Residence Hall","640 Elm Dr.
+Madison, WI 53706",43.0777323,-89.4177599
+"166","UWMadison - Susan B Davis","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Susan B Davis","917 W. Johnson St.
+Madison, WI 53715",43.0718118,-89.4016346,NA,NA,58,"Smith Hall, Voting Room:
+Laines Lounge","35 N Park St.
+Madison, WI 53715",43.0689757,-89.4004166
+"167","UWMadison - Tau Kappa Epsilon","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Tau Kappa Epsilon","216 Langdon St.
+Madison, WI 53703",43.0765701,-89.393312,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"168","UWMadison - Theta Delta Chi","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Theta Delta Chi","144 Langdon St.
+Madison, WI 53703",43.0778593,-89.3925173,NA,NA,47,"Bethel Lutheran Church","312 Wisconsin Ave
+Madison, WI 53703",43.0768476,-89.3878826
+"169","UWMadison - Triangle","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Triangle","148 N Breese Terrace
+Madison, WI 53726",43.0714277,-89.4142287,NA,NA,63,"First Congregational Church","1609 University Ave
+Madison, WI 53726",43.0731484999999,-89.4144333
+"170","UWMadison - Tripp","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Tripp","1510 Tripp Cir
+Madison, WI 53706",43.0780158,-89.4112588,NA,NA,60,"UW Memorial Union","800 Langdon St.
+Madison, WI 53706",43.0762598,-89.4000038
+"171","UWMadison - Witte","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Witte","615 W. Johnson St.
+Madison, WI 53706",43.0718801,-89.3972428,NA,NA,57,"Gordon Dining, Voting Room
+Dining Center","770 W Dayton St.
+Madison, WI 53715",43.0711735999999,-89.3980844
+"172","UWMadison - Zeta Beta Tau","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Frat",TRUE,"Zeta Beta Tau","233 Langdon St.
+Madison, WI 53703",43.0757926,-89.3932564999999,NA,NA,48,"Uw-Madison Lowell Center","610 Langdon St.
+Madison, WI 53703",43.0762566999999,-89.3957638
+"173","UWMadison - Zoe Bayliss Co-op","UW-Madison","Madison","43.0767° N","89.4124° W","Memorial Union Terrace","800 Langdon St.
+Madison, WI 53703",NA,NA,0,0,"Campus",NA,"Zoe Bayliss Co-op","915 W. Johnson St.
+Madison, WI 53715",43.071815,-89.401366,NA,NA,58,"Smith Hall, Voting Room:
+Laines Lounge","35 N Park St.
+Madison, WI 53715",43.0689757,-89.4004166
+"174","UWMilwaukee","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","UWMilwaukee - Cambridge Commons","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,"Campus",NA,"Cambridge Commons","2323 N Cambridge Ave
+Milwaukee, WI 53211",43.0608118,-87.8919305,NA,NA,132,"Urban Ecology Center","1500 E Park Pl.
+Milwaukee, WI 53211",43.0677104,-87.890783
+"176","UWMilwaukee - Kenilworth Square","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,"Campus",NA,"Kenilworth Square Apartments","1915 E Kenilworth Pl
+Milwaukee, WI 53202",43.0589814,-87.8858779,NA,NA,176,"Charles Allis Art Museum","1801 N Prospect Ave
+Milwaukee, WI 53202",43.0537129999999,-87.8903733
+"177","UWMilwaukee - Purin Hall","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,"Campus",NA,"Purin Hall","2600 E Kenwood Blvd
+Milwaukee, WI 53211",43.0749396,-87.8776563999999,NA,NA,127,"Plymouth Church","2717 E Hampshire Ave
+Milwaukee, WI 53211",43.0754132,-87.8761531999999
+"178","UWMilwaukee - Riverview Hall","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,"Campus",NA,"Riverview Hall","2340 N Commerce St
+Milwaukee, WI 53212",43.0605796,-87.894893,NA,NA,133,"Gordon Park Pavilion","2828 N Humboldt Blvd
+Milwaukee, WI 53212",43.0700261,-87.8972375
+"179","UWMilwaukee - Sandburg Hall","UW-Milwaukee","Milwaukee","43.0783° N","87.8819° W","UWM Student Union","2200 E Kenwood Blvd St. 
+Milwaukee, WI 53211",NA,NA,0,0,"Campus",NA,"Sandburg Hall","3400 N Maryland Ave
+Milwaukee, WI 53211",43.0792179,-87.8819003,NA,NA,31,"UWM Student Union","2200 E Kenwood Blvd
+Milwaukee, WI 53211",43.0751922,-87.8813912
+"180","UWOshkosh","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave
+Oshkosh, WI 54903",NA,NA,0.4,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","UWOshKosh - Donner Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Donner Hall","820 High Ave
+Oshkosh, WI 54901",44.0253837,-88.5523135999999,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"182","UWOshkosh - Evans Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Evans Hall","727 W Lincoln Ave
+Oshkosh, WI 54901",44.0262935,-88.5472798999999,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"183","UWOshkosh - Fletcher Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Fletcher Hall","712 Elmwood Ave
+Oshkosh, WI 54901",44.0253257,-88.5472042999999,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"184","UWOshkosh - Horizon Village","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Horizon Village","635 Elmwood Ave
+Oshkosh, WI 54901",44.0238856,-88.5479974,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"185","UWOshkosh - North Scott Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"North Scoot Hall","625 Algoma Blvd
+Oshkosh, WI 54901",44.0229542,-88.5476904,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"186","UWOshkosh - South Gruenhagen Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"South Gruenhagen","208 Osceola St
+Oshkosh, WI 54901",44.0222223,-88.5487904,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"187","UWOshkosh - South Scott Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"South Scoot Hall","820 High Ave
+Oshkosh, WI 54901",44.0253837,-88.5523135999999,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"188","UWOshkosh - Stewart Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Sewart Hall","723 W Lincoln Ave
+Oshkosh, WI 54901",44.0259545,-88.5469399999999,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"189","UWOshkosh - Taylor Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Taylor Hall","780 High Ave
+Oshkosh, WI 54901",44.0245583,-88.5512071,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"190","UWOshkosh - Webster Hall","UW-Oshkosh","Oshkosh","44.0263° N","88.5508° W","City of Oshkosh","215 Church Ave 
+Oshkosh, WI 54903",NA,NA,0.4,8,"Campus",NA,"Webster Hall","810 High Ave
+Oshkosh, WI 54901",44.0250103,-88.5516602,NA,NA,12,"Culver Family Center","625 Pearl Ave
+Oshkosh, WI 54901",44.0205097,-88.5504124
+"191","UWParkside","UW-Parkside","Parkside","42.6450° N","87.8517° W","Village & Town of Somers","7511 12th St.
+Kenosha, WI 53144",NA,NA,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","UWParkside - Pike River Suites","UW-Parkside","Parkside","42.6450° N","87.8517° W","Village & Town of Somers","7511 12th St.
+Kenosha, WI 53144",NA,NA,2.7,NA,"Campus",NA,"Pike River Suites","3737 University Dr.
+Kenosha, WI 53144",42.648581,-87.8543232999999,NA,NA,10,"Uw Parkside Sports Center","4130 Petrifying Springs Rd Kenosha, WI 53144",42.6414195,-87.8568752
+"193","UWParkside - Ranger Hall","UW-Parkside","Parkside","42.6450° N","87.8517° W","Village & Town of Somers","7511 12th St.
+Kenosha, WI 53144",NA,NA,2.7,NA,"Campus",NA,"Ranger Hall","4135 University Dr.
+Kenosha, WI 53144",42.6470418,-87.8578527999999,NA,NA,10,"Uw Parkside Sports Center","4130 Petrifying Springs Rd Kenosha, WI 53144",42.6414195,-87.8568752
+"194","UWParkside - University Apartments","UW-Parkside","Parkside","42.6450° N","87.8517° W","Village & Town of Somers","7511 12th St.
+Kenosha, WI 53144",NA,NA,2.7,NA,"Campus",NA,"University Apartments","925 Eagle Heights Dr.
+Madison, WI 53705",43.0843348,-89.4424887999999,NA,NA,62,"Eagle Heights Community Center","611 Eagle Hts Madison, WI 53705",43.088307,-89.4364937
+"195","UWPlatteville","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","UWPlatteville -  McGregor Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"McGregor Hall","1000 Greenwood Ave
+Platteville, WI 53818",42.7332669,-90.4909979999999,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"197","UWPlatteville -  Wilgus Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Wilgus Hall","1100 Greenwood Ave
+Platteville, WI 53818",42.7332405999999,-90.4926765,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"198","UWPlatteville - Bridgeway Commons","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Bridgeway Commons","1200 Southwest Rd.
+Platteville, WI 53818",42.7289328,-90.4921950999999,NA,NA,5,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"199","UWPlatteville - Dobson Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Dobson Hall","1200 Greenwood Ave
+Platteville, WI 53818",42.7335393,-90.494226,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"200","UWPlatteville - Melcher Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Melcher Hall","50 S College Dr.
+Platteville, WI 53818",42.734149,-90.4944474,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"201","UWPlatteville - Morrow Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Morrow Hall","1300 Greenwood Ave
+Platteville, WI 53818",42.733379,-90.4959969,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"202","UWPlatteville - Porter Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Porter Hall","60 S College Dr.
+Platteville, WI 53818",42.7339159,-90.4954066,NA,NA,6,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"203","UWPlatteville - Rountree Commons","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Rountree Commons","800 S Chestnut St.
+Platteville, WI 53818",42.7272839,-90.4842292,NA,NA,8,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"204","UWPlatteville - Southwest Hall","UW-Platteville","Platteville","42.7339° N","90.5020° W","Platteville City Hall","75 N Bonson St.
+Platteville, WI 53818",NA,NA,0.3,6,"Campus",NA,"Southwest Hall","1100 Southwest Rd.
+Platteville, WI 53818",42.7282812,-90.4920863,NA,NA,5,"Ullsvik Hall , Voting Room: Velzy Commons","30 S Hickory St.
+Platteville, WI 53818",42.7346767,-90.4849759999999
+"205","UWRiverFalls","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","UWRiverFalls - Ames Suites","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Ames Suites","851 Wild Rose Ave
+River Falls, WI 54022",44.8514144,-92.6144616,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"207","UWRiverFalls - Crabtree Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Crabtree Hall","850 E Cascade Ave
+River Falls, WI 54022",44.8522374,-92.614702,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"208","UWRiverFalls - Grimm Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Grimm Hall","750 E Cascade Ave
+River Falls, WI 54022",44.8529271,-92.6164850999999,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"209","UWRiverFalls - Hathorn Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Hathorn Hall","620 S Third St
+River Falls, WI 54022",44.8519477,-92.6236778,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"210","UWRiverFalls - Johnson Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Johnson Hall","62 E Cascade Ave
+River Falls, WI 54022",44.8535319,-92.6283481999999,NA,NA,13,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"211","UWRiverFalls - May Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"May Hall","124 E Cascade Ave
+River Falls, WI 54022",44.8538508,-92.627185,NA,NA,13,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"212","UWRiverFalls - McMillan Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"McMillan Hall","700 E Cascade Ave
+River Falls, WI 54022",44.8530589999999,-92.6171053,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"213","UWRiverFalls - Parker Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Parker Hall","800 E Cascade Ave
+River Falls, WI 54022",44.852585,-92.6154772,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"214","UWRiverFalls - Prucha Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Prucha Hall","551 Spruce St
+River Falls, WI 54022",44.853482,-92.6273401,NA,NA,13,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"215","UWRiverFalls - South Fork Suites","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"South Fork Suites","805 Wild Rose Ave
+River Falls, WI 54022",44.8506622,-92.6149902,NA,NA,10,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"216","UWRiverFalls - Stratton Hall","UW-River Falls","River Falls","44.8533° N","92.6221° W","River Falls City Hall","222 Lewis St.
+River Falls, WI 54022",NA,NA,0.8,16,"Campus",NA,"Stratton Hall","581 Spruce St
+River Falls, WI 54022",44.8531168,-92.6273401,NA,NA,13,"UW-River Falls Falcon Center","1110 S Main St.
+River Falls, WI 54022",44.8466819,-92.6266437
+"217","UWStevensPoint","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","UWStevensPoint - Baldwin Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"​​Baldwin Hall","425 Isadore St.
+Stevens Point, WI 54481",44.530598,-89.5729365,NA,NA,7,"Dreyfus University Center","1015 Reserve St. St.evens Point, WI 54481",44.5258157,-89.5689993
+"219","UWStevensPoint - Burroughs Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Burroughs Hall","201 Isadore St.
+Stevens Point, WI 54481",44.5328794,-89.5729365,NA,NA,31,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"220","UWStevensPoint - Hansen Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Hansen Hall","409 Isadore St.
+Stevens Point, WI 54481",44.5312573,-89.5721262,NA,NA,7,"Dreyfus University Center","1015 Reserve St. St.evens Point, WI 54481",44.5258157,-89.5689993
+"221","UWStevensPoint - Hyer Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Hyer Hall","1319 Fremont St.
+Stevens Point, WI 54481",44.5227764,-89.5676325,NA,NA,9,"Dreyfus University Center","1015 Reserve St., St.evens Point, WI 54481",44.5258157,-89.5689993
+"222","UWStevensPoint - Knutzen Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Knutzen Hall","209 Isadore St.
+Stevens Point, WI 54481",44.5328028,-89.5721262,NA,NA,31,"Stevens Point Recreation Center","2442 Sims Ave, St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"223","UWStevensPoint - May Roach Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"May Roach Hall","301 Reserve St.
+Stevens Point, WI 54481",44.5316881,-89.5692531999999,NA,NA,4,"Stevens Point Recreation Center","2442 Sims Ave, St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"224","UWStevensPoint - ​​Neale Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Neale Hall","433 Isadore St.
+Stevens Point, WI 54481",44.5306686,-89.5721262,NA,NA,7,"Dreyfus University Center","1015 Reserve St. St.evens Point, WI 54481",44.5258157,-89.5689993
+"225","UWStevensPoint - Pray-Sims Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Pray-Sims Hall","501 Reserve St.
+Stevens Point, WI 54481",44.5299957,-89.5693269,NA,NA,4,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"226","UWStevensPoint - ​Smith Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"​Smith Hall","409 Reserve St.
+Stevens Point, WI 54481",44.530629,-89.5696418,NA,NA,4,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 5448",44.5255368,-89.5639693999999
+"227","UWStevensPoint - ​Steiner Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"​Steiner Hall","401 Isadore St.
+Stevens Point, WI 54481",44.5311867,-89.5729365,NA,NA,7,"Dreyfus University Center","1015 Reserve St. St.evens Point, WI 54481",44.5258157,-89.5689993
+"228","UWStevensPoint - The Suites@201","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"The Suites@201","201 Reserve St.
+Stevens Point, WI 54481",44.5323477,-89.5685166,NA,NA,4,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"229","UWStevensPoint - ​Thomson Hall
+'","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"​Thomson Hall","1817 Maria Dr.
+Stevens Point, WI 54481",44.5333907,-89.5719051999999,NA,NA,31,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"230","UWStevensPoint - Watson Hall","UW-Stevens Point","Stevens Point","44.5295° N","89.5712° W","City Clerk, City of Stevens Point","1515 Strongs Avenue
+Stevens Point, WI 54481",NA,NA,1.5,NA,"Campus",NA,"Watson Hall","1801 Maria Dr.
+Stevens Point, WI 54481",44.5334681,-89.5729365,NA,NA,31,"Stevens Point Recreation Center","2442 Sims Ave St.evens Point, WI 54481",44.5255368,-89.5639693999999
+"231","UWStout","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","UWStout - Fleming | Hovlid","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,"Campus",NA,"Fleming | Hovlid","220 2nd St W
+Menomonie, WI 54751",44.8813346,-91.9303845,NA,NA,3,"City Of Menomonie Council Chambers","800 Wilson Ave, Menomonie, WI 54751",44.8748641,-91.9210882
+"233","UWStout - HKMC","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,"Campus",NA,"HKMC","1215 3rd St E
+Menomonie, WI 54751",44.8715596,-91.9275973,NA,NA,7,"UW Stout Commons","1110 Broadway St. S, Menomonie, WI 54751",44.8724487,-91.9290099
+"234","UWStout - JTC","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,"Campus",NA,"JTC","200 Broadway St. S
+Menomonie, WI 54751",44.8805904,-91.9290481,NA,NA,4,"City Of Menomonie Council Chambers","800 Wilson Ave, Menomonie, WI 54751",44.8748641,-91.9210882
+"235","UWStout - North Hall","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,"Campus",NA,"North Hall","124 10th Avenue E
+Menomonie, WI 54751",44.8735814,-91.9289718,NA,NA,5,"UW Stout Commons","1110 Broadway St. S, Menomonie, WI 54751",44.8724487,-91.9290099
+"236","UWStout - South Hall","UW-Stout","Stout","44.8717° N","91.9267° W","Menomonie City Clerk","800 Wilson Ave
+Menomonie, WI 54751",NA,NA,0.3,6,"Campus",NA,"South Hall","115 13th Avenue E
+Menomonie, WI 54751",44.8715339,-91.9291245,NA,NA,5,"UW Stout Commons","1110 Broadway St. S, Menomonie, WI 54751",44.8724487,-91.9290099
+"237","UWSuperior","UW-Superior","Superior","46.7178° N","92.0881° W","Superior Government Center","1316 N. 14th Street
+Superior, WI 54880",NA,NA,0.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","UWWhitewater","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","UWWhitewater - Arey Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Arey Hall","1024 West Starin Rd.
+Whitewater, WI 53190",42.8402533999999,-88.7482345999999,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"240","UWWhitewater - Benson Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Benson Hall","1008 West Starin Rd.
+Whitewater, WI 53190",42.8402427,-88.7472574,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"241","UWWhitewater - Bigelow Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Bigelow Hall","441 Koshkonong Dr.
+Whitewater, WI 53190",42.8420889,-88.7476679999999,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"242","UWWhitewater - Fischer Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Fischer Hall","771 West Lauderdale Dr.
+Whitewater, WI 53190",42.8427909,-88.7415529,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"243","UWWhitewater - Fricker Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Fricker Hall","423 W. Koshkonong Dr.
+Whitewater, WI 53190",42.8408577,-88.7481615,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"244","UWWhitewater - Knilans Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Knilans Hall","411 North Prairie St.
+Whitewater, WI 53190",42.8430781,-88.7401344,NA,NA,13,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"245","UWWhitewater - Lee Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Lee Hall","429 Koshkonong Dr.
+Whitewater, WI 53190",42.8413691,-88.7481428,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"246","UWWhitewater - Ma'iingan Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Ma'iingan Hall","451 Warhawk Dr.
+Whitewater, WI 53190",42.8417795,-88.7449980999999,NA,NA,10,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"247","UWWhitewater - Pulliam Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Pulliam Hall","901 West Starin Rd.
+Whitewater, WI 53190",42.8393918,-88.7460547,NA,NA,9,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"248","UWWhitewater - Tutt Hall","UW-Whitewater","Whitewater","42.8418° N","88.7427° W","City Administration Building","312 W Whitewater St.
+Whitewater, WI 53190",NA,NA,0.6,12,"Campus",NA,"Tutt Hall","431 North Prairie St.
+Whitewater, WI 53190",42.8436723,-88.7404914999999,NA,NA,13,"UWW Uc Hamilton Room","800 W Main St.
+Whitewater, WI 53190",42.8363544,-88.7457084
+"249","Viterbo - All Other Residences","Viterbo - Bonaventure Hall, Marian Hall, McDonald Terrace, Rose Terrace, Treacy House, or La Verna Apartments","LaCrosse","43.8021° N","91.2451° W","City Hall","400 La Crosse St.
+La Crosse, WI 54601",NA,NA,1.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Coulee Recovery Center","933 Ferry St.
+La Crosse, WI, 54601",43.8058612,-91.243225
+"250","Viterbo - Canticle House or Clare Apartments","Viterbo - Canticle House or Clare Apartments","LaCrosse","43.8021° N","91.2451° W","City Hall","400 La Crosse St.
+La Crosse, WI 54601",NA,NA,1.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Southside Neighborhood Center","1300 6th Street South, La Crosse, WI, 54601",43.7982798,-91.2490593
+"251","Ξ Different Private School in Wisconsin","Ξ Different Private School in Wisconsin",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","Ξ Different Public School in Wisconsin","Ξ Different Public School in Wisconsin",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

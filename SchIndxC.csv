@@ -1,0 +1,178 @@
+"",".College.Lookup",".School",".GreekList",".DormList"
+"1","Alverno","Alverno",NA,"Austin"
+"2","Beloit College","Beloit","Phi Kappa Psi (WI Gamma)/Sigma Chi (Alpha Zeta)/Tau Kappa Epsilon (Kappa Chapter)",NA
+"3","Cardinal Stritch--Assisi Hall","Stritch",NA,NA
+"4","Cardinal Stritch--Clare Hall","Stritch",NA,NA
+"5","Carroll","Carroll",NA,"Carroll Street Apartments/Charles Street Hall/College Avenue Apartments/Frontier Hall/Hartwell A Apartments/Hartwell B Apartments/Hartwell C Apartments/Hartwell D Apartments/Kilgour Hall/North Bergstrom Hall/Pioneer Hall/Prairie Hall/Shirley Hilger Hall/South Bergstrom Hall/Steele Hall/Swarthout Hall"
+"6","Carthage College","Carthage",NA,NA
+"7","Chippewa Valley Technical College--Chippewa Falls Campus","CVTC",NA,NA
+"8","College of Menominee Nation - Keshena Campus","Menominee",NA,NA
+"9","Concordia","Concordia",NA,NA
+"10","Edgewood","Edgewood",NA,"Dominican Hall/Siena Hall"
+"11","Lakeland","Lakeland",NA,NA
+"12","Lawrence","Lawrence",NA,"Big Exec /Brokaw Hall/Hiett Hall /Ormsby Hall /Plantz Hall /Quad 203 N Union St/Quad 206 S Lawe St/Quad 218 S. Lawe Street /Quad 711 E. Alton Street/Quad 712 E. Boldt Way/Quad 726 E. Boldt Way/Quad 733 East Alton Street/Quad 738 E. Boldt Way/Quad 741 E. Boldt Way/Quad 742 E. Boldt Way /Sage Hall /Small Exec /Trever Hall /Colman Hall /Kohler Hall"
+"13","Madison College","Madison College",NA,NA
+"14","Marquette","Marquette",NA,"Abbottsford Hall/Carpenter Tower/Cobeen Hall /Humphrey Hall /Mashuda Hall /O'Donnell Hall/Schroeder Hall /Straz Tower /The Commons"
+"15","MATC - Milwaukee Area Technical College","MATC",NA,"Westown Green"
+"16","MIAD","MIAD",NA,"Two50Two"
+"17","Mount Mary","MtMary",NA,"Caroline Hall/Lorenz House"
+"18","MSOE","MSOE",NA,"Margaret Loock Residence Hall"
+"19","Northland College","Northland",NA,"Fenenga Hall"
+"20","Ripon College","Ripon",NA,"Campus Apartments"
+"21","St Norbert","StNorbert",NA,"Dale and Ruth Michels Hall/Dennis M. Burke Hall/Gertrude S. Bergstrom Hall/Madelaine/Lorraine Hall/Mary Minahan McCormick Hall"
+"22","UW-Eau Claire","UW-EC","Alpha Xi Delta/","Aspenson Mogensen Hall/Bridgman Hall/Chancellors Hall/Governors Hall/Haymarket Landing
+/Horan Hall/Karlgaard Towers/Murray Hall/Oak Ridge Hall/Priory Hall/Sutherland Hall/The Suites"
+"23","UW-Green Bay","UW-GB",NA,"Arlene Walter Hall/Bob Schaefer Hall/Byron Walter Hall/Cletus Vanderperren Hall/Donald Long Hall/James Temp Hall/Josephine Lenfestey Hall/R.E. Small Hall/Robert Warren Hall/Roy Downham Hall/Ted Lenfestey Hall"
+"24","UW-LaCrosse","UW-LAX",NA,NA
+"25","UW-Madison","UW-Madison","Acacia/Alpha Chi Omega/Alpha Delta Phi/Alpha Epsilon Phi/Alpha Gamma Rho/Alpha Lambda Rho/Alpha Phi/Alpha Sigma Phi/Alpha Xi Delta/Beta Theta Pi/Chi Omega/Chi Psi/Chi Sigma Tau/Delta Chi/Delta Delta Delta/Delta Gamma/Delta Tau Delta/Delta Theta Sigma/Delta Upsilon/Gamma Phi Beta/Kappa Alpha Theta/Kappa Kappa Gamma/Lambda Phi Epsilon/Lambda Theta Alpha/Lambda Theta Phi/Phi Delta Theta/Phi Gamma Delta/Phi Kappa Theta/Pi Beta Phi/Pi Kappa Alpha/Pi Kappa Phi/Pi Lamba Phi/Sigma Alpha Epsilon/Sigma Delta Tau/Sigma Lambda Beta/Sigma Phi/Sigma Pi/Tau Kappa Epsilon/Theta Delta Chi/Triangle/Zeta Beta Tau","Adams/Barnard/Bradley/Chadbourne/Cole/Dejope/Elizabeth Waters/Kronshage/Leopold/Merit/Ogg/Phillips/Sellery/Slichter/Smith/Sullivan/Susan B Davis/Tripp/Witte/Zoe Bayliss Co-op"
+"26","UW-Milwaukee","UWM",NA,"Cambridge Commons/Kenilworth Square Apartments/Purin Hall/Riverview Hall/Sandburg Hall"
+"27","UW-Oshkosh","UWOsh",NA,"Donner Hall/Evans Hall/Fletcher Hall/Horizon Village/North Scoot Hall/South Gruenhagen/South Scoot Hall/Sewart Hall/Taylor Hall/Webster Hall"
+"28","UW-Parkside","UWP",NA,"Pike River Suites/Ranger Hall/University Apartments"
+"29","UW-Platteville","UWPlatt",NA,"McGregor Hall/Wilgus Hall/Bridgeway Commons/Dobson Hall/Melcher Hall/Morrow Hall/Porter Hall/Rountree Commons/Southwest Hall"
+"30","UW-River Falls","UW-RF",NA,"Ames Suites/Crabtree Hall/Grimm Hall/Hathorn Hall/Johnson Hall/May Hall/McMillan Hall/Parker Hall/Prucha Hall/South Fork Suites/Stratton Hall"
+"31","UW-Stevens Point","UW-SP",NA,"​​Baldwin Hall
+/Burroughs Hall/Hansen Hall/Hyer Hall/Knutzen Hall/May Roach Hall/Neale Hall/Pray-Sims Hall/​Smith Hall/​Steiner Hall
+/The Suites@201
+/​Thomson Hall
+/Watson Hall"
+"32","UW-Stout","UW-Stout",NA,"Fleming | Hovlid/HKMC/JTC/North Hall/South Hall"
+"33","UW-Superior","UW-Super",NA,NA
+"34","UW-Whitewater","UWW",NA,"Arey Hall/Benson Hall/Bigelow Hall/Fischer Hall/Fricker Hall/Knilans Hall/Lee Hall/Ma'iingan Hall/Pulliam Hall/Tutt Hall"
+"35","Viterbo -- Bonaventure Hall, Marian Hall, McDonald Terrace, Rose Terrace, Treacy House, or La Verna Apartments","Viterbo",NA,NA
+"36","Viterbo -- Canticle House or Clare Apartments","Viterbo",NA,NA
+"37","Ξ Different Private School in Wisconsin","Ξ Different Private School in Wisconsin",NA,NA
+"38","Ξ Different Public School in Wisconsin","Ξ Different Public School in Wisconsin",NA,NA
+"39",NA,NA,NA,NA
+"40",NA,NA,NA,NA
+"41",NA,NA,NA,NA
+"42",NA,NA,NA,NA
+"43",NA,NA,NA,NA
+"44",NA,NA,NA,NA
+"45",NA,NA,NA,NA
+"46",NA,NA,NA,NA
+"47",NA,NA,NA,NA
+"48",NA,NA,NA,NA
+"49",NA,NA,NA,NA
+"50",NA,NA,NA,NA
+"51",NA,NA,NA,NA
+"52",NA,NA,NA,NA
+"53",NA,NA,NA,NA
+"54",NA,NA,NA,NA
+"55",NA,NA,NA,NA
+"56",NA,NA,NA,NA
+"57",NA,NA,NA,NA
+"58",NA,NA,NA,NA
+"59",NA,NA,NA,NA
+"60",NA,NA,NA,NA
+"61",NA,NA,NA,NA
+"62",NA,NA,NA,NA
+"63",NA,NA,NA,NA
+"64",NA,NA,NA,NA
+"65",NA,NA,NA,NA
+"66",NA,NA,NA,NA
+"67",NA,NA,NA,NA
+"68",NA,NA,NA,NA
+"69",NA,NA,NA,NA
+"70",NA,NA,NA,NA
+"71",NA,NA,NA,NA
+"72",NA,NA,NA,NA
+"73",NA,NA,NA,NA
+"74",NA,NA,NA,NA
+"75",NA,NA,NA,NA
+"76",NA,NA,NA,NA
+"77",NA,NA,NA,NA
+"78",NA,NA,NA,NA
+"79",NA,NA,NA,NA
+"80",NA,NA,NA,NA
+"81",NA,NA,NA,NA
+"82",NA,NA,NA,NA
+"83",NA,NA,NA,NA
+"84",NA,NA,NA,NA
+"85",NA,NA,NA,NA
+"86",NA,NA,NA,NA
+"87",NA,NA,NA,NA
+"88",NA,NA,NA,NA
+"89",NA,NA,NA,NA
+"90",NA,NA,NA,NA
+"91",NA,NA,NA,NA
+"92",NA,NA,NA,NA
+"93",NA,NA,NA,NA
+"94",NA,NA,NA,NA
+"95",NA,NA,NA,NA
+"96",NA,NA,NA,NA
+"97",NA,NA,NA,NA
+"98",NA,NA,NA,NA
+"99",NA,NA,NA,NA
+"100",NA,NA,NA,NA
+"101",NA,NA,NA,NA
+"102",NA,NA,NA,NA
+"103",NA,NA,NA,NA
+"104",NA,NA,NA,NA
+"105",NA,NA,NA,NA
+"106",NA,NA,NA,NA
+"107",NA,NA,NA,NA
+"108",NA,NA,NA,NA
+"109",NA,NA,NA,NA
+"110",NA,NA,NA,NA
+"111",NA,NA,NA,NA
+"112",NA,NA,NA,NA
+"113",NA,NA,NA,NA
+"114",NA,NA,NA,NA
+"115",NA,NA,NA,NA
+"116",NA,NA,NA,NA
+"117",NA,NA,NA,NA
+"118",NA,NA,NA,NA
+"119",NA,NA,NA,NA
+"120",NA,NA,NA,NA
+"121",NA,NA,NA,NA
+"122",NA,NA,NA,NA
+"123",NA,NA,NA,NA
+"124",NA,NA,NA,NA
+"125",NA,NA,NA,NA
+"126",NA,NA,NA,NA
+"127",NA,NA,NA,NA
+"128",NA,NA,NA,NA
+"129",NA,NA,NA,NA
+"130",NA,NA,NA,NA
+"131",NA,NA,NA,NA
+"132",NA,NA,NA,NA
+"133",NA,NA,NA,NA
+"134",NA,NA,NA,NA
+"135",NA,NA,NA,NA
+"136",NA,NA,NA,NA
+"137",NA,NA,NA,NA
+"138",NA,NA,NA,NA
+"139",NA,NA,NA,NA
+"140",NA,NA,NA,NA
+"141",NA,NA,NA,NA
+"142",NA,NA,NA,NA
+"143",NA,NA,NA,NA
+"144",NA,NA,NA,NA
+"145",NA,NA,NA,NA
+"146",NA,NA,NA,NA
+"147",NA,NA,NA,NA
+"148",NA,NA,NA,NA
+"149",NA,NA,NA,NA
+"150",NA,NA,NA,NA
+"151",NA,NA,NA,NA
+"152",NA,NA,NA,NA
+"153",NA,NA,NA,NA
+"154",NA,NA,NA,NA
+"155",NA,NA,NA,NA
+"156",NA,NA,NA,NA
+"157",NA,NA,NA,NA
+"158",NA,NA,NA,NA
+"159",NA,NA,NA,NA
+"160",NA,NA,NA,NA
+"161",NA,NA,NA,NA
+"162",NA,NA,NA,NA
+"163",NA,NA,NA,NA
+"164",NA,NA,NA,NA
+"165",NA,NA,NA,NA
+"166",NA,NA,NA,NA
+"167",NA,NA,NA,NA
+"168",NA,NA,NA,NA
+"169",NA,NA,NA,NA
+"170",NA,NA,NA,NA
+"171",NA,NA,NA,NA
+"172",NA,NA,NA,NA
