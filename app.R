@@ -11,14 +11,14 @@ library(googlesheets4)
 library(dbplyr)
 library(dplyr)
 
-# This is the id for the Google Sheet I use, but you need to make it a variable 
+# This is the id for the Google Sheet I use, but you need to make it a variable
 # in order to use it in the "googlesheets4" package function read_sheet(id,sheet number (which tab))
 # sheet_id2<-"15i21fIxmVHKxIkvaMOrxzq_kmPQR-iah69Ui9XceFm4"
 # SchIndx<-read_sheet(sheet_id2,1)
 # DrmIndx<-read_sheet(sheet_id2,3)
 # CondTxt<-read_sheet(sheet_id2,4)
 
-#Here I've imported the information into a .csv file into my computer's working directory 
+#Here I've imported the information into a .csv file into my computer's working directory
 #so it takes less time each time I run it. I needed to write it to just a 4 column .csv file
 # because I was getting errors when I tried to save the whole file
 # schools<-list(SchIndxC[,1])
@@ -30,7 +30,7 @@ DrmIndxRead<-read.csv("DrmIndxC.csv")
 schoolslist<-SchIndxRead %>% select(.College.Lookup) %>% unlist(use.names = FALSE)
 #dormslist<-DrmIndxRead%>% select(.Dorm.Name) %>% unlist(use.names=FALSE)
 
-# Define UI 
+# Define UI
 ui <- fluidPage(
   theme = shinytheme("united"),
   # Application title
@@ -43,19 +43,25 @@ ui <- fluidPage(
   # Pick a school
   selectInput("SchoolID",label="Pick Your School",choices=schoolslist)
   ,
-  
+
   # Pick a dorm
   selectInput("DormID",label="Pick Your Dorm",choices="listofdorms")
   ,
-  
+
   #Pick a frat or sor
-  
-  
+  selectInput("GreekHouse",label="Pick Your Greek (this should only appear for colleges with frats or sororities)",choices="AAA")
+
+  ,
+  #Residence
+  selectInput("Residency",label="Where do you live:",
+              list("In college-operated housing", "Off campus in town('town' to be a variable)", "Off campus not in town")
+              )
+  ,
   # Sidebar
   sidebarLayout(
     sidebarPanel()
     ,
-    
+
     mainPanel(
       textOutput("SchoolPicked")
       ,
@@ -66,26 +72,26 @@ ui <- fluidPage(
 
 
 
-# Define server logic required to draw a histogram
+# Define server logic required
 server <- function(input, output) {
-  
-  
-  
+
+
+
   # snag from the Schools Index the list of dorms from the college that was selected
   #  SchDormsList<-SchIndxRead %>% filter(.College.Lookup == "MIAD") %>% pull(.DormList)
-  
+
   thesedorms <- reactive({
     thesedorms() <-SchIndxRead %>% filter(.College.Lookup == "UW-Green Bay") %>% pull(.DormList)
   })
-  
+
   output$SchoolPicked <- renderText({input$SchoolID})
   output$listofdorms <-renderText(input$thesedorms)
   output$DormPicked <- renderText({input$DormID})
   #Taking the selected school and looking in the database for the list
-  
+
   #Removing the delimiter and separating the list of dorms
   #  data.frame(do.call('rbind', strsplit(as.character(thesedorms()),'/',fixed=TRUE)))
 }
 
-# Run the application 
+# Run the application
 shinyApp(ui = ui, server = server)
