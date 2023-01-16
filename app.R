@@ -4,7 +4,7 @@
 # Find out more about building applications with Shiny here:
 #    http://shiny.rstudio.com/
 #
-#First open the libraries I'll need..TEST CHANGE
+#First open the libraries I'll need..TEST CHANGE.
 library(shiny)
 library(shinythemes)
 library(googlesheets4)
