@@ -34,53 +34,44 @@ schoolslist<-SchIndxRead %>% select(.College.Lookup) %>% unlist(use.names = FALS
 ui <- fluidPage(
   theme = shinytheme("united"),
   # Application title
-  titlePanel("This will someday be SmartStudentsVote")
-  ,
-  navbarPage(title = "SmartStudentsVote")
-  ,
-  #data
-  #  inputID = ("cat")
+  titlePanel("This will someday be SmartStudentsVote") ,
+  navbarPage(title = "SmartStudentsVote: For students attending school in Wisconsin"),
+
+#data
+  # Pick your state status
+  selectInput("HomeState",label="Where are you from?",list("I'm a student from Wisconsin","I'm a student from another state","I'm from Wisconsin but I'm not a student")),
   # Pick a school
-  selectInput("SchoolID",label="Pick Your School",choices=schoolslist)
-  ,
-
+  selectInput("SchoolID",label="Pick Your School",choices=schoolslist),
   # Pick a dorm
-  selectInput("DormID",label="Pick Your Dorm",choices="listofdorms")
-  ,
-
+  selectInput("DormID",label="Pick Your Dorm",choices="listofdorms") ,
   #Pick a frat or sor
   selectInput("GreekHouse",label="Pick Your Greek (this should only appear for colleges with frats or sororities)",
-              list("AAA","BBB","CCC"))
-
-  ,
+              list("AAA","BBB","CCC")),
   #Residence
   selectInput("Residency",label="Where do you live:",
-              list("In college-operated housing", "Off campus in town ('town' to be a variable)", "Off campus not in town","In a sorority or fraternity house")
-              )
+              list("In college-operated housing", "Off campus in town ('town' to be a variable)", "Off campus not in town","In a sorority or fraternity house")   ) ,
+  #Voting Needs
+  selectInput("VoteRegNeeds",label="I need to:",
+              list("Register & Vote", "Vote") )
   ,
   # Sidebar
   sidebarLayout(
     sidebarPanel()
     ,
-
     mainPanel(
-      textOutput("SchoolPicked")
-      ,
-      textOutput("DormPicked")
-      ,
-      textOutput("GreekPicked")
-      ,
-      textOutput("ResidencyPicked")
+      textOutput("HomePicked"),
+      textOutput("SchoolPicked"),
+      textOutput("DormPicked"),
+      textOutput("GreekPicked"),
+      textOutput("ResidencyPicked"),
+      textOutput("VoteRegNeedsPicked")
     )
   )
 )
 
 
-
 # Define server logic required
 server <- function(input, output) {
-
-
 
   # snag from the Schools Index the list of dorms from the college that was selected
   #  SchDormsList<-SchIndxRead %>% filter(.College.Lookup == "MIAD") %>% pull(.DormList)
@@ -88,12 +79,13 @@ server <- function(input, output) {
   thesedorms <- reactive({
     thesedorms() <-SchIndxRead %>% filter(.College.Lookup == "UW-Green Bay") %>% pull(.DormList)
   })
-
+  output$HomePicked <- renderText({input$HomeState})
   output$SchoolPicked <- renderText({input$SchoolID})
   output$listofdorms <-renderText(input$thesedorms)
   output$DormPicked <- renderText({input$DormID})
   output$GreekPicked <- renderText({input$GreekHouse})
   output$ResidencyPicked <- renderText({input$Residency})
+  output$VoteRegNeedsPicked <- renderText({input$VoteRegNeeds})
   #Taking the selected school and looking in the database for the list
 
   #Removing the delimiter and separating the list of dorms
