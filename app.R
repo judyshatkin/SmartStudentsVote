@@ -4,7 +4,7 @@
 # Find out more about building applications with Shiny here:
 #    http://shiny.rstudio.com/
 #
-#First open the libraries I'll need..TEST CHANGE.
+#First open the libraries I'll need.
 library(shiny)
 library(shinythemes)
 library(googlesheets4)
@@ -28,7 +28,7 @@ SchIndxRead<-read.csv("SchIndxC.csv")
 DrmIndxRead<-read.csv("DrmIndxC.csv")
 # get the list (vectorized) of schools from the schools index
 schoolslist<-SchIndxRead %>% select(.College.Lookup) %>% unlist(use.names = FALSE)
-#dormslist<-DrmIndxRead%>% select(.Dorm.Name) %>% unlist(use.names=FALSE)
+dormslist<-DrmIndxRead%>% select(.DormsGreeksMainList) %>% unlist(use.names=FALSE)
 
 # Define UI
 ui <- fluidPage(
@@ -43,7 +43,7 @@ ui <- fluidPage(
   # Pick a school
   selectInput("SchoolID",label="Pick Your School",choices=schoolslist),
   # Pick a dorm
-  selectInput("DormID",label="Pick Your Dorm",choices="listofdorms") ,
+  selectInput("DormID",label="Pick Your Dorm (this should only show dorms from chosen school)",choices=dormslist) ,
   #Pick a frat or sor
   selectInput("GreekHouse",label="Pick Your Greek (this should only appear for colleges with frats or sororities)",
               list("AAA","BBB","CCC")),
