@@ -49,12 +49,13 @@ ui <- fluidPage(
   ,
 
   #Pick a frat or sor
-  selectInput("GreekHouse",label="Pick Your Greek (this should only appear for colleges with frats or sororities)",choices="AAA")
+  selectInput("GreekHouse",label="Pick Your Greek (this should only appear for colleges with frats or sororities)",
+              list("AAA","BBB","CCC"))
 
   ,
   #Residence
   selectInput("Residency",label="Where do you live:",
-              list("In college-operated housing", "Off campus in town('town' to be a variable)", "Off campus not in town")
+              list("In college-operated housing", "Off campus in town ('town' to be a variable)", "Off campus not in town","In a sorority or fraternity house")
               )
   ,
   # Sidebar
@@ -66,6 +67,10 @@ ui <- fluidPage(
       textOutput("SchoolPicked")
       ,
       textOutput("DormPicked")
+      ,
+      textOutput("GreekPicked")
+      ,
+      textOutput("ResidencyPicked")
     )
   )
 )
@@ -87,6 +92,8 @@ server <- function(input, output) {
   output$SchoolPicked <- renderText({input$SchoolID})
   output$listofdorms <-renderText(input$thesedorms)
   output$DormPicked <- renderText({input$DormID})
+  output$GreekPicked <- renderText({input$GreekHouse})
+  output$ResidencyPicked <- renderText({input$Residency})
   #Taking the selected school and looking in the database for the list
 
   #Removing the delimiter and separating the list of dorms
